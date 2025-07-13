@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Pitch Deck Generator using Presenton API
 This script generates pitch decks by:
